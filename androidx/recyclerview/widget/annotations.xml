@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='androidx.recyclerview.widget.ItemTouchHelper void attachToRecyclerView(androidx.recyclerview.widget.RecyclerView)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
