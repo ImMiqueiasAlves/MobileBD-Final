@@ -21,7 +21,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
     private static final String TASK = "task";
     private static final String STATUS = "status";
     private static final String CREATE_TASK_TABLE = "CREATE TABLE " + TASK_TABLE + "(" + ID +" INTEGER PRIMARY KEY AUTOINCREMENT, "
-            + TASK + "TEXT, " + STATUS + "INTEGER)";
+            + TASK + " TEXT, " + STATUS + " INTEGER)";
 
     private SQLiteDatabase db;
 
